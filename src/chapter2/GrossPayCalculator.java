@@ -24,6 +24,6 @@ public class GrossPayCalculator {
 
         //3. Multiply hours worked by pay rate
         double grossPay = hourlyRate*hoursWorked;
-        System.out.println("Your gross pay is £" + grossPay);
+        System.out.println("The employee's gross pay is £" + grossPay);
     }
 }
