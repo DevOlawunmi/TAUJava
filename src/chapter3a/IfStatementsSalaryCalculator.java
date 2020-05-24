@@ -8,7 +8,7 @@ All salespeople get £10000 a week, salespeople who exceed 10 sales get a bonus 
 
 import java.util.Scanner;
 
-public class SalaryCalculator {
+public class IfStatementsSalaryCalculator {
 
     public static void main(String[] args) {
         int salary = 10000;

@@ -1,12 +1,13 @@
 package chapter3a;
 /*
+********************If a certain situation occurs, check for the next situation*****************
 To qualify for a loan, a person must make at least £30000
 and have been working on their job for 2 years
  */
 
 import java.util.Scanner;
 
-public class LoanQualifier {
+public class NestedIfStatementsLoanQualifier {
     public static void main(String[] args) {
 // Get how much they earn
         int requiredSalary = 30000;
