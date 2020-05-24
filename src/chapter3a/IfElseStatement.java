@@ -14,10 +14,9 @@ public class IfElseStatement {
         Scanner scanner = new Scanner(System.in);
         int sales = scanner.nextInt();
         scanner.close();
-        if (sales >= expectedSales) {
+        if (sales >= expectedSales)
             System.out.println("Congratulations!! You get a bonus");
-
-        } else {
+         else {
             int salesShort = expectedSales - sales;
             if (salesShort == 1) {
                 System.out.println("Unfortunately you did not meet this week's quota,  " + "you are " + salesShort + " sale short");  }
