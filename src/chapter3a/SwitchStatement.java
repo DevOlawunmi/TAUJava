@@ -12,6 +12,7 @@ public class SwitchStatement {
         System.out.println("Enter your grade");
         Scanner scanner = new Scanner(System.in);
         String grade = scanner.next();
+        scanner.close();
         String message;
         switch (grade){
             case "A" : message = "Excellent job";
