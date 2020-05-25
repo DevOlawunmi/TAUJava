@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75621fef-08fa-40c3-a02b-c7aa72d6b774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter3a/IfElseIfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3a/SwitchStatement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3a/LoanQualifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3a/NestedIfStatementsLoanQualifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3a/SalaryCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3a/IfStatementsSalaryCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3a/IfElseIfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3a/IfElseIfStatements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunManager" selected="Application.IfElseIfStatements">
-    <configuration name="Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Assignment" />
-      <module name="TAUJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SwitchStatement">
     <configuration name="IfElseIfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3a.IfElseIfStatements" />
       <module name="TAUJava" />
@@ -102,13 +88,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwitchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3a.SwitchStatement" />
+      <module name="TAUJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwitchStatement" />
         <item itemvalue="Application.IfElseIfStatements" />
         <item itemvalue="Application.NestedIfStatementsLoanQualifier" />
         <item itemvalue="Application.IfElseStatement" />
         <item itemvalue="Application.IfStatementsSalaryCalculator" />
-        <item itemvalue="Application.Assignment" />
       </list>
     </recent_temporary>
   </component>
@@ -191,44 +190,52 @@
       <option name="project" value="LOCAL" />
       <updated>1590302375410</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="If Else If Statements passed">
+      <created>1590339970246</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590339970246</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter 2 Example" />
     <MESSAGE value="If else statement pass" />
     <MESSAGE value="Nested if statements pass" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nested if statements pass" />
+    <MESSAGE value="If Else If Statements passed" />
+    <option name="LAST_COMMIT_MESSAGE" value="If Else If Statements passed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="516" y="269" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590120776114">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="516" y="269" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1590120776114" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1590302374900">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1590339969303">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590302374900" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1590339941712">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590339969303" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1590387904325">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590339941712" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1590339941712">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590387904325" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1590387904325">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590339941712" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1590339941712">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590387904325" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1590387904325">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590339941712" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1590339941712">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590387904325" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1590387904325">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590339941712" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1590302379674">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590387904325" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1590339973052">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590302379674" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590339973052" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1590210817182">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

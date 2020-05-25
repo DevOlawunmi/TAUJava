@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class IfElseIfStatements {
     public static void main(String[] args) {
 
-
+char grade;
         System.out.println("Please enter your score");
         Scanner scanner = new Scanner(System.in);
         int score = scanner.nextInt();
