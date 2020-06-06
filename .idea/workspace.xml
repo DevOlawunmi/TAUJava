@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75621fef-08fa-40c3-a02b-c7aa72d6b774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodingBlackFemales1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingBlackFemales1/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingBlackFemales1/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingBlackFemales1/Vampire.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingBlackFemales1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingBlackFemales1/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingBlackFemales1/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingBlackFemales1/Bear.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunManager" selected="Application.Lesson1">
+  <component name="RunManager" selected="Application.Vampire">
     <configuration name="Attempt1ChangeForTwoPoundsGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3a.Attempt1ChangeForTwoPoundsGame" />
       <module name="TAUJava" />
@@ -49,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseIfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3a.IfElseIfStatements" />
+    <configuration name="Bear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingBlackFemales1.Bear" />
       <module name="TAUJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3a.*" />
+          <option name="PATTERN" value="CodingBlackFemales1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalOperatorsLoanQualifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3a.LogicalOperatorsLoanQualifier" />
+    <configuration name="Man" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingBlackFemales1.Man" />
       <module name="TAUJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3a.*" />
+          <option name="PATTERN" value="CodingBlackFemales1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3a.SwitchStatement" />
+    <configuration name="Vampire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingBlackFemales1.Vampire" />
       <module name="TAUJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3a.*" />
+          <option name="PATTERN" value="CodingBlackFemales1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Vampire" />
+        <item itemvalue="Application.Man" />
+        <item itemvalue="Application.Bear" />
         <item itemvalue="Application.Lesson1" />
         <item itemvalue="Application.Attempt1ChangeForTwoPoundsGame" />
-        <item itemvalue="Application.SwitchStatement" />
-        <item itemvalue="Application.LogicalOperatorsLoanQualifier" />
-        <item itemvalue="Application.IfElseIfStatements" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591037311815</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Constructors Lesson">
+      <created>1591250270345</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1591250270345</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -245,40 +254,41 @@
     <MESSAGE value="Change for Two Pounds game" />
     <MESSAGE value="Attempt 1 Change for Two Pounds game" />
     <MESSAGE value="CBF" />
-    <option name="LAST_COMMIT_MESSAGE" value="CBF" />
+    <MESSAGE value="Constructors Lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="Constructors Lesson" />
   </component>
   <component name="WindowStateProjectService">
     <state x="516" y="269" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590120776114">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="516" y="269" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1590120776114" />
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1591037311277">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1591250269724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591037311277" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1591037404338">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591250269724" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1591476209015">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591037404338" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1591037404338">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591476209015" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1591476209015">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591037404338" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1591037404338">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591476209015" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1591476209015">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591037404338" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1591037404338">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591476209015" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1591476209015">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591037404338" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1591037314396">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591476209015" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1591250272724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591037314396" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1591246960548">
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591250272724" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1591473869719">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591246960548" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591473869719" />
   </component>
 </project>
