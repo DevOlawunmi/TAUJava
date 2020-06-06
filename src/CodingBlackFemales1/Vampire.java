@@ -7,6 +7,15 @@ public class Vampire {
         Animal vampire = new Animal(food,drink);
         vampire.drink();
         vampire.eat();
+        Animal snail = new Animal();
+        snail.drink = "dew";
+        snail.food = "leaves";
+        snail.eat();
+        snail.drink();
     }
+
+
+
+
 
 }

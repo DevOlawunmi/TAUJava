@@ -6,7 +6,7 @@ public class Animal {
 
     String food;
     String drink;
-  //  public Animal(){}
+   public Animal(){}
     public Animal(String food, String drink){
 this.food = food;
 this.drink = drink;
