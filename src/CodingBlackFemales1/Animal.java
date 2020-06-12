@@ -3,20 +3,11 @@ package CodingBlackFemales1;
 
 
 public class Animal {
+//the below variables are fields because they are global
+    public String food;
+   public String drink;
 
-    String food;
-    String drink;
-   public Animal(){}
-    public Animal(String food, String drink){
-this.food = food;
-this.drink = drink;
-    }
-//    public String getFood(){
-//        return food;
-//    }
-//    public void setFood(String food){
-//        this.food = food;
-//    }
+
     public void eat(){
         System.out.println("I am eating " + food);
     }
