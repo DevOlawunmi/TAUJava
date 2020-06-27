@@ -3,7 +3,8 @@ package chapter3a;
 All sales people are expected to make to make 10 sales a week
 If they do, they get a congratulatory message, if not they are told the no of shortage.
  */
-
+// If a certain situation occurs <do something>
+//otherwise <do something else>
 import java.util.Scanner;
 
 public class IfElseStatement {
